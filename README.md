@@ -1,3 +1,2 @@
 # ArbAnalyse
-Nationalt Center For Arbejdsmiljø Undersøgelse
-Første draft - endelig version kommer mandag aften.
+Nationalt Center For Arbejdsmiljø Undersøgelse. Første draft uploaded søndag - endelig version kommer mandag aften.
